@@ -10,6 +10,6 @@ en:
     title: Banner schließen
     label: Schließen
   toggle:
-    title: Das Banner aus-/einklappen Expand/Collapse
+    title: Das Banner aus-/einklappen
     collapse_label: Einklappen
     expand_label: Ausklappen
