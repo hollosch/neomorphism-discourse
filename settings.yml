@@ -1,10 +1,10 @@
 Heading:
-  default: "Twimbit"
+  default: "GEISLINGEN.digital"
   max: 2500
   description:
     en: "The world is moved by ideas and technology!"
 Blurb:
-  default: "Ius vitae ornatus at, ei mea sumo quot dicant. Ei tale democritum eos, in mea timeam accumsan forensibus. Ei his aperiam suavitate. Et debitis convenire sea, viris dictas latine."
+  default: "Wir ergänzen das analoge Geislingen"
   max: 180
   description:
     en: "Enter a short blurb about your community - Max length 180 characters"
