@@ -1,15 +1,15 @@
 en:
   search_banner:
-    headline: "Welcome to our community"
-    subhead: "We're happy to have you here. If you need help, please search before you post."
+    headline: "Willkommen bei GEISLINGEN.digital"
+    subhead: "Alles, was im analogen Geislingen fehlt, gibt es hier!"
 
 ---
 
 en:
   close:
-    title: Close the banner
-    label: Close
+    title: Banner schließen
+    label: Schließen
   toggle:
-    title: Expand/Collapse the banner
-    collapse_label: Collapse
-    expand_label: Expand
+    title: Das Banner aus-/einklappen Expand/Collapse
+    collapse_label: Einklappen
+    expand_label: Ausklappen
